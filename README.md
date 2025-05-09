@@ -33,15 +33,15 @@ gcc -o myls myls.c
 ```
 
 ## ▶️ Usage
-
+**Note:** This action requires administrative permissions.
 ```
-./myls
+sudo ./myls
 ```
 
 Lists all files (excluding `.` and `..`) in the current directory.
-
+**Note:** This action requires administrative permissions.
 ```
-./myls file1.txt file2.c
+sudo ./myls file1.txt file2.c
 ```
 
 Displays information about the specified files.
