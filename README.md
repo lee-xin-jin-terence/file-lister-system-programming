@@ -1,5 +1,5 @@
 > ⚠️ This file is part of academic coursework </br>
-> Authored by <br/>Terence Lee Xin Jin<br/> on 2020.
+> Authored by **Terence Lee Xin Jin** on 2020.
 
 # System Programming: Unix `ls` Command Implementation (Academic Coursework)
 
