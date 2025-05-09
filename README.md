@@ -1,4 +1,4 @@
-> ⚠️ This file is part of academic coursework </br>
+> ⚠️ This project is part of an academic coursework.
 > Authored by **Terence Lee Xin Jin** on 2020.
 
 # System Programming: Unix `ls` Command Implementation (Academic Coursework)
