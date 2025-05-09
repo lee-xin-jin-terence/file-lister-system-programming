@@ -535,7 +535,7 @@ void displayCurrFileInfo( const char * fileName)
 	 contains both the device major and minor
 	 numbers 
 	 
-	 Further function calls to gun_dev_major() 
+	 Further function calls to gnu_dev_major() 
 	 and gnu_dev_minor() are required to obtain the
 	 major and minor numbers respectively
 	-----------------------------------------*/
