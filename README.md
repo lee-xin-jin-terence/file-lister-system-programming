@@ -3,6 +3,9 @@
 
 # System Programming: Unix `ls` Command Implementation (Academic Coursework)
 
+## Test Documentation
+[linux-file-lister-documentation.pdf](https://github.com/user-attachments/files/20114046/linux-file-lister-documentation.pdf)
+
 
 ## 📄 Description
 
